@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @LikeMary
+- 👀 I’m interested in web development.
+- 🌱 I’m currently learning JavaScript
